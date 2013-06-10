@@ -1,0 +1,1 @@
+mysql --verbose --user=root obelisk_production < /home/ppolushkin/RoR/obelisk_production_dump.sql

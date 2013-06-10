@@ -1,0 +1,62 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+venok1 :
+  article: В332
+  name: Защитник 2
+  height: 70
+  width: 120
+  notes: Серию венков "Защитникам Отечества". Уникальность ритуальных венков в их щитообразной форме, подчеркнутой золотой фурнитурой и "заклепками" по контуру
+  small_image_name: /images/foto/V332-s.jpg
+  big_image_name: /images/foto/V332-b.jpg
+  price: 980
+
+venok2 :
+  article: В152
+  name: Слава героям
+  height: 70
+  width: 120
+  notes: Серия "Защитникам Отечества". Ритуальный венок для возложения павшим героям.
+  small_image_name: /images/foto/V152-s.jpg
+  big_image_name: /images/foto/V152-b.jpg
+  price: 980
+
+venok3 :
+  article: В354
+  name: Тамерлан
+  height: 70
+  width: 120
+  small_image_name: /images/foto/V354-s.jpg
+  big_image_name: /images/foto/V354-b.jpg
+  price: 980
+
+venok4 :
+  article: В352
+  name: Руслан
+  height: 70
+  width: 120
+  small_image_name: /images/foto/V352-s.jpg
+  big_image_name: /images/foto/V352-b.jpg
+  price: 980
+
+
+correct_korsina :
+  article: К001
+  name: Красивая Корзина
+  height: 150
+  width: 150
+  notes: Замечательная корзина
+  small_image_name: q001-s.jpg
+  big_image_name: q001-b.jpg
+  extra_image_name: q001-e.jpg
+  price: 300
+
+correct_fon :
+  article: Ф001
+  name: Красивый Фон
+  height: 150
+  width: 150
+  notes: Замечательный фон
+  small_image_name: f001-s.jpg
+  big_image_name: f001-b.jpg
+  extra_image_name: f001-e.jpg
+  price: 300
