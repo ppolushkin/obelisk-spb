@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0084dcd6-fafb-436f-96ad-331e15c45740" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/carrier_wave.rb" afterPath="$PROJECT_DIR$/config/initializers/carrier_wave.rb" />
     </list>
     <ignored path="obelisk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,28 +28,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="31" selection-start="2233" selection-end="2233" vertical-scroll-proportion="-20.833334">
+            <state line="50" column="63" selection-start="2147" selection-end="2147" vertical-scroll-proportion="0.7006369">
               <folding>
-                <marker date="1371583168000" expanded="true" signature="1209:2343" placeholder="..." />
-                <marker date="1371583168000" expanded="true" signature="1234:1619" placeholder="..." />
-                <marker date="1371583168000" expanded="true" signature="1912:1981" placeholder="..." />
-                <marker date="1371583168000" expanded="true" signature="2013:2168" placeholder="..." />
-                <marker date="1371583168000" expanded="true" signature="2200:2273" placeholder="..." />
-                <marker date="1371583168000" expanded="true" signature="2294:2334" placeholder="..." />
-                <marker date="1371583168000" expanded="true" signature="2391:2453" placeholder="..." />
-                <marker date="1371583168000" expanded="true" signature="2537:2569" placeholder="..." />
+                <marker date="1371587557000" expanded="true" signature="1209:2343" placeholder="..." />
+                <marker date="1371587557000" expanded="true" signature="1234:1619" placeholder="..." />
+                <marker date="1371587557000" expanded="true" signature="1245:1607" placeholder="if ... end" />
+                <marker date="1371587557000" expanded="true" signature="1912:1981" placeholder="..." />
+                <marker date="1371587557000" expanded="true" signature="2013:2168" placeholder="..." />
+                <marker date="1371587557000" expanded="true" signature="2200:2273" placeholder="..." />
+                <marker date="1371587557000" expanded="true" signature="2294:2334" placeholder="..." />
+                <marker date="1371587557000" expanded="true" signature="2391:2453" placeholder="..." />
+                <marker date="1371587557000" expanded="true" signature="2537:2569" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carrier_wave.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="carrier_wave.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/carrier_wave.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="31" selection-start="439" selection-end="439" vertical-scroll-proportion="0.18779343">
+            <state line="8" column="31" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,8 +83,8 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/helpers/store_helper.rb" />
         <option value="$PROJECT_DIR$/app/uploaders/foto_uploader.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/initializers/carrier_wave.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -599,26 +599,27 @@
         <state line="36" column="23" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.26960784" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/initializers/carrier_wave.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="31" selection-start="2233" selection-end="2233" vertical-scroll-proportion="-20.833334">
-          <folding>
-            <marker date="1371583168000" expanded="true" signature="1209:2343" placeholder="..." />
-            <marker date="1371583168000" expanded="true" signature="1234:1619" placeholder="..." />
-            <marker date="1371583168000" expanded="true" signature="1912:1981" placeholder="..." />
-            <marker date="1371583168000" expanded="true" signature="2013:2168" placeholder="..." />
-            <marker date="1371583168000" expanded="true" signature="2200:2273" placeholder="..." />
-            <marker date="1371583168000" expanded="true" signature="2294:2334" placeholder="..." />
-            <marker date="1371583168000" expanded="true" signature="2391:2453" placeholder="..." />
-            <marker date="1371583168000" expanded="true" signature="2537:2569" placeholder="..." />
-          </folding>
+        <state line="8" column="31" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/carrier_wave.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="439" selection-end="439" vertical-scroll-proportion="0.18779343">
-          <folding />
+        <state line="50" column="63" selection-start="2147" selection-end="2147" vertical-scroll-proportion="0.7006369">
+          <folding>
+            <marker date="1371587557000" expanded="true" signature="1209:2343" placeholder="..." />
+            <marker date="1371587557000" expanded="true" signature="1234:1619" placeholder="..." />
+            <marker date="1371587557000" expanded="true" signature="1245:1607" placeholder="if ... end" />
+            <marker date="1371587557000" expanded="true" signature="1912:1981" placeholder="..." />
+            <marker date="1371587557000" expanded="true" signature="2013:2168" placeholder="..." />
+            <marker date="1371587557000" expanded="true" signature="2200:2273" placeholder="..." />
+            <marker date="1371587557000" expanded="true" signature="2294:2334" placeholder="..." />
+            <marker date="1371587557000" expanded="true" signature="2391:2453" placeholder="..." />
+            <marker date="1371587557000" expanded="true" signature="2537:2569" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
