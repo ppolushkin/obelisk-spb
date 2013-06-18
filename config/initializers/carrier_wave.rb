@@ -6,7 +6,7 @@ CarrierWave.configure do |config|
       :region                 => 'eu-west-1'  # optional, defaults to 'us-east-1'
   }
   config.fog_directory  = 'venki-spb'                                 # required, bucket name
-  config.fog_public     = false                                       # optional, defaults to true
+  config.fog_public     = true                                        # optional, defaults to true
   config.fog_attributes = { 'Cache-Control' => 'max-age=315576000' }  # optional, defaults to {}
                                                                       # config.asset_host     = 'https://assets.example.com'              # optional, defaults to nil
 end
