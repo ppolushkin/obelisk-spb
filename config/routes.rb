@@ -22,7 +22,7 @@ Obelisk::Application.routes.draw do
 
   resources :pages
 
-  match ":page_ref", :controller => "pages", :action => "show_by_page_ref"
+  get ":page_ref", :controller => "pages", :action => "show_by_page_ref"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
