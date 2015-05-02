@@ -4,6 +4,8 @@ development:
   database: dev_venok
   pool: 5
   timeout: 5000
+  username: postgres
+  password: postgres
 
 test:
   adapter: postgresql

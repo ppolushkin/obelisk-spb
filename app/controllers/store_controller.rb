@@ -36,7 +36,7 @@ class StoreController < ApplicationController
       order = "created_at desc"
     end
 
-    @products = Product.paginate :page=>params[:page], :per_page => 500, :conditions => "article like '#{key}%'", :order => order
+    @products = Product.where("article like '#{key}%'").order(order)
   end
 
   def show_all_products(key)
