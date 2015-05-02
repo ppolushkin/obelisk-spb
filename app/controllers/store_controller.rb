@@ -39,10 +39,4 @@ class StoreController < ApplicationController
     @products = Product.where("article like '#{key}%'").order(order)
   end
 
-  def show_all_products(key)
-    Product.all :conditions => "article like '#{key}%'", :order => "price desc"
-  end
-
-  private
-
 end
